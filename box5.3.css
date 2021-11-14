@@ -1,0 +1,44 @@
+.box1, .box2, .box3, .box4, .box5, .box6{
+    float: left;
+    border: 2px solid black;
+   margin: 1em;
+}
+
+
+
+.box1{
+    background-color: yellow;
+    width: 10%;
+    height: 50px;
+}
+
+.box2{
+    background-color: orangered;
+    width: 83%;
+    height: 50px;
+}
+
+.box3{
+    background-color: palegreen;
+    width: 10%;
+    height: 500px;
+}
+
+.box4{
+    background-color: lightgray;
+    width: 70%;
+    height: 500px;
+}
+
+.box5{
+    background-color: turquoise;
+    width: 10%;
+    height: 500px;
+}
+
+
+.box6{
+    background-color: blueviolet;
+    width: 97%;
+    height: 50px;
+}
